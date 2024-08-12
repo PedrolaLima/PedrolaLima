@@ -2,7 +2,7 @@
 
 👀 Sou um solucionador de problemas apaixonado, com um amor pela tecnologia e um desejo de inovar. Sempre fui intrigado pela mágica que acontece nos bastidores dos jogos e do software, e estou em uma busca de vida para entender e criar essa mágica.
 
-🌱 Atualmente, estou aprendendo e crescendo no campo do desenvolvimento de software. Minha jornada começou com Análise e Desenvolvimento de Sistemas para construir uma base sólida.
+🌱 Atualmente, estou aprendendo e crescendo no campo do desenvolvimento de software. Minha jornada começou com um curso de game engines ( Game Maker, Unity, Unreal) e agora estudo Análise e Desenvolvimento de Sistemas para construir uma base sólida.
 
 💞 Estou ansioso para colaborar em projetos que me desafiem, onde posso aplicar minhas habilidades para criar soluções impactantes. Seja desenvolvimento web, design de jogos ou qualquer empreendimento tecnológico emocionante, conte comigo!
 
